@@ -1,6 +1,5 @@
 # Abstraindo um Bootcamp Usando Orientação a Objetos em Java 🚀
 ---
-
 ## Desafio de Projeto: Aprendendo na Prática Programação Orientada a Objetos
 
 Este projeto pertence ao desafio de código da Bootcamp da GFT na DIO, focado em colocar em prática os principais conceitos da Programação Orientada a Objetos (POO) em Java.
